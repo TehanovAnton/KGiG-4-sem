@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab-6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\2 учеба\кгиг\lab-8\lab-6\libsurface.h(152): warning C4018: <: несоответствие типов со знаком и без знака
+d:\2 учеба\кгиг\lab-8\lab-6\libsurface.h(155): warning C4018: <: несоответствие типов со знаком и без знака
+d:\2 учеба\кгиг\lab-8\lab-6\libsurface.h(211): warning C4018: <: несоответствие типов со знаком и без знака
+d:\2 учеба\кгиг\lab-8\lab-6\libsurface.h(214): warning C4018: <: несоответствие типов со знаком и без знака
+d:\2 учеба\кгиг\lab-8\lab-6\libsurface.h(241): warning C4018: <: несоответствие типов со знаком и без знака
+d:\2 учеба\кгиг\lab-8\lab-6\libsurface.h(244): warning C4018: <: несоответствие типов со знаком и без знака
+d:\2 учеба\кгиг\lab-8\lab-6\libsurface.h(263): warning C4101: k: неиспользованная локальная переменная
+d:\2 учеба\кгиг\lab-8\lab-6\libsurface.h(263): warning C4101: d: неиспользованная локальная переменная
+d:\2 учеба\кгиг\lab-8\lab-6\libsurface.h(194): warning C4715: CPlot3D::GetNumberRegion: значение возвращается не при всех путях выполнения
+  Lab-6.vcxproj -> D:\2 УЧЕБА\КГИГ\Lab-8\Debug\Lab-8.exe
