@@ -1,0 +1,4 @@
+﻿  main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\документы\университет\4 семестр\кгиг\лабораторные\lab5\win32project1\main.cpp(147): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Win32Project1.vcxproj -> D:\Документы\Университет\4 семестр\КГиГ\Лабораторные\Lab5\Debug\Win32Project1.exe
