@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  ChildView.cpp
+  GraphBitMap.cpp
+  LPLab2.cpp
+d:\2 учеба\кгиг\lab2\lab2\lplab2.cpp(19): warning C4244: инициализация: преобразование "INT_PTR" в "int", возможна потеря данных
+d:\2 учеба\кгиг\lab2\lab2\lplab2.cpp(34): warning C4244: инициализация: преобразование "INT_PTR" в "int", возможна потеря данных
+d:\2 учеба\кгиг\lab2\lab2\lplab2.cpp(52): warning C4244: инициализация: преобразование "INT_PTR" в "int", возможна потеря данных
+  MainFrm.cpp
+  Создание кода...
+  lab2.vcxproj -> D:\2 УЧЕБА\КГИГ\lab2\x64\Debug\lab2.exe
