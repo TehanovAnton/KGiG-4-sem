@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  ChildView.cpp
+d:\2 учеба\кгиг\cgag-master\lab3\lab3\childview.cpp(97): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\2 учеба\кгиг\cgag-master\lab3\lab3\childview.cpp(120): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\2 учеба\кгиг\cgag-master\lab3\lab3\childview.cpp(144): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\2 учеба\кгиг\cgag-master\lab3\lab3\childview.cpp(168): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\2 учеба\кгиг\cgag-master\lab3\lab3\childview.cpp(194): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\2 учеба\кгиг\cgag-master\lab3\lab3\childview.cpp(213): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\2 учеба\кгиг\cgag-master\lab3\lab3\childview.cpp(232): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\2 учеба\кгиг\cgag-master\lab3\lab3\childview.cpp(251): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  CMatrix.cpp
+  Lab3.cpp
+  LibChart2D.cpp
+d:\2 учеба\кгиг\cgag-master\lab3\lab3\libchart2d.cpp(225): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MainFrm.cpp
+  Создание кода...
+  Lab3.vcxproj -> D:\2 УЧЕБА\КГИГ\CGaG-master\Lab3\x64\Debug\Lab3.exe
